@@ -59,4 +59,4 @@ stages:
             inputs:
               azureSubscription: $(azureSubscription)
               appName: $(appName)
-              containers: 'myappregistry.azurecr.io/$(imageRepository):$(tag)'
+              containers: 'myappregistry999.azurecr.io/$(imageRepository):$(tag)'
